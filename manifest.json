@@ -1,10 +1,10 @@
 {
   "short_name": "Wilbert C.",
-  "name": "Wilbert Cargeson — Software Engineer",
+  "name": "Wilbert Cargeson — Senior Software Engineer",
   "icons": [
     {
       "src": "favicon.png",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#e8b93c",
+  "background_color": "#f6f1e4"
 }
